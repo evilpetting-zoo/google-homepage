@@ -1,0 +1,65 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+	border: 1px solid black;
+	padding: 5px 0;
+}
+
+.navbar ul{
+	list-style-type: none;
+	text-align: right;
+}
+
+.navbar li {
+	display: inline;
+	
+}
+
+.liItem {
+	margin-bottom: 10px;
+	border: 1px solid black;
+}
+
+.navbar li img {
+	display: inline;
+	margin: 0;
+	border: 1px solid black;
+}
+
+.searchArea {
+
+}
+
+.footer {
+	background-color: #f8f8f8;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	border: 1px solid black;
+	position: relative;
+}
+
+.footer ul{
+	list-style-type: none;
+	display: inline;
+}
+
+.footer li {
+	display: inline;
+	padding: 0 10px;
+}
+
+.leftFooter {
+	position: absolute;
+	border: 1px solid black;
+}
+
+.rightFooter {
+	position: absolute;
+	border: 1px solid black;
+}
+
+
+
